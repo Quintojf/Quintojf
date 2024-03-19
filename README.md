@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Quintojf
-- 👀 I’m interested in ... tour guiding 
+- 👋 Hi, I’m @Quinto
+- 👀 I’m interested in 
 - 🌱 I’m currently learning ... building technology 
 - 💞️ I’m looking to collaborate on ... tourism management 
 - 📫 How to reach me ... 
